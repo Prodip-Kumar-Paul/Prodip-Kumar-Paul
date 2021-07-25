@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prodip-kumar-paul&label=Profile%20views&color=0e75b6&style=flat" alt="prodip-kumar-paul" /> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **prodipkumarpaul@gmail.com**
 
@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prodip-kumar-paul&show_icons=true&locale=en&layout=compact" alt="prodip-kumar-paul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prodip-kumar-paul&show_icons=true&locale=en" alt="prodip-kumar-paul" /></p>
+<p>&nbsp;<img align="center" bg-dark src="https://github-readme-stats.vercel.app/api?username=prodip-kumar-paul&show_icons=true&locale=en" alt="prodip-kumar-paul" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prodip-kumar-paul&" alt="prodip-kumar-paul" /></p>
+<p><img align="center" bg-dark src="https://github-readme-streak-stats.herokuapp.com/?user=prodip-kumar-paul&" alt="prodip-kumar-paul" /></p>

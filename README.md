@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prodip Kumar Paul</h1>
 <h3 align="center">In a way to Upskill</h3>
 
-- 👨🏻‍🎓 Currently persuing my B.Tech in CSE
-- 🔭 I’m currently working on side Projects and explore Hackathons 
+- 👨🏻‍🎓 Currently persuing B.Tech in CSE
+- 🔭 I’m currently working on my Projects and explore Hackathons 
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Creative Projects
 - 🥅 Goals: Contribute to Open Source projects

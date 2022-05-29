@@ -1,18 +1,28 @@
 <h1 align="center">Hi 👋, I'm Prodip Kumar Paul</h1>
-<h3 align="center">In a way to Upskill</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-- 👨🏻‍🎓 Currently persuing B.Tech in CSE
-- 🔭 I’m currently working on my Projects and explore Hackathons 
-- 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate on Creative Projects
-- 🥅 Goals: Contribute to Open Source projects
+- 🔭 I’m currently exploring **Open Source Projects and Hackathons**
+- 
+- 🌱 I’m currently pursuing **B.Tech in CSE**
+
+- 👯 I’m looking to collaborate on **Creative and Innovative Projects Ideas**
+
+- 🤝 I’m looking for help for **some Creative Projects Ideas**
+
+- 💬 Ask me about **Node.js, React.js, MongoDB, Javascript**
+
+- 📫 How to reach me **prodipkumarpaul708@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/prodip-kumar-paul-708](https://www.linkedin.com/in/prodip-kumar-paul-708/)
 
 ### 🌐 Connect with me : 
 <p align="left">
-<a href="https://dev.to/leonel_7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="leonel_7" height="30" width="40" /></a>
  <a href="mailto:prodipkumarpaul708@gmail.com"><img align="center" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp;
 <a href="https://linkedin.com/in/prodip-kumar-paul-708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prodip-kumar-paul-708" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/leonel-7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="leonel-7" height="30" width="40" /></a>
+<a href="https://dev.to/leonel_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="leonel_7" height="30" width="40" /></a>
+<a href="https://twitter.com/leonel_7123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leonel_7123" height="30" width="40" /></a>
+<a href="https://medium.com/@prodip-7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prodip-7" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCwXf69LI6PowGcWEaJA1IVg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucwxf69li6powgcweaja1ivg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

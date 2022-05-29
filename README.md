@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prodip Kumar Paul</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer | Student | Web explorer</h3>
 
 - 🔭 I’m currently exploring **Open Source Projects and Hackathons**
-- 
+
 - 🌱 I’m currently pursuing **B.Tech in CSE**
 
 - 👯 I’m looking to collaborate on **Creative and Innovative Projects Ideas**

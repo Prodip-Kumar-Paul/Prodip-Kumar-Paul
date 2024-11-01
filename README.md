@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/leonel_7123" target="blank"><img src="https://img.shields.io/twitter/follow/leonel_7123?logo=twitter&style=for-the-badge" alt="leonel_7123" /></a> </p>
 
-- 🌱 I’m currently learning **Nestjs**
+- 🌱 I’m currently learning **System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prodip-Kumar-Paul](https://github.com/Prodip-Kumar-Paul)
 

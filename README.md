@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **System Design**
 
+- 👯 I’m looking to collaborate on **OpenSource projects**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Prodip-Kumar-Paul](https://github.com/Prodip-Kumar-Paul)
 
 - 📝 I regularly write articles on [https://prodip-7.medium.com/](https://prodip-7.medium.com/)
